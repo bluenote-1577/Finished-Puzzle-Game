@@ -25,7 +25,7 @@ int main(void) {
 
 	_CrtSetDbgFlag ( _CRTDBG_ALLOC_MEM_DF | _CRTDBG_LEAK_CHECK_DF );				
 	sf::RenderWindow window(sf::VideoMode (600,400), "ComboPuzzle");
-	window.setFramerateLimit(60);
+	window.setFramerateLimit(150);
 	sf::RenderStates state;
 	sf:: Color lightblue(230,230,250,0);
 	TimedResourceHolder timed_resources;
