@@ -12,4 +12,6 @@ in one big combo!
 
 Erase quickly, or else the blocks will rise to the top and you'll lose!
 
+The debug folder has a compiled exe program ready to go. Simply download and run that program.
+
 Made by Jim Shaw.
