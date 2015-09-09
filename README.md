@@ -3,6 +3,8 @@ Combo Puzzle
 ![id](https://github.com/bluenote-1577/Finished-Puzzle-Game/blob/master/PuzzleGame.png)
 
 This is a brief puzzle game I've made using C++ and the SFML libraries.
+A compiled executable is in the ComboPuzzle folder. Download and run to play. 
+Source code is in the Win32Project3 folder.
 
 __Instructions__
 
