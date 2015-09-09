@@ -1,5 +1,7 @@
 Hello!
 
+![id](https://github.com/bluenote-1577/Finished-Puzzle-Game/blob/master/PuzzleGame.png)
+
 This is a brief puzzle game I've made using C++ and the SFML libraries.
 
 Instructions : Swap blocks around by dragging them to adjacent blocks. Once 
